@@ -1,0 +1,220 @@
+ Pt is 87 yo woman, highschool teacher with past medical history that includes - status post cardiac catheterization in April 2019. She presents today with palpitations and chest pressure. HPI Sleeping trouble on present dosage of Clonidine. Severe Rash on face and leg, slightly itchy Meds Vyvanse 50 mgs po at breakfast daily, Clonidine 0.2 mgs -- 1 and 1 / 2 tabs po ghs HEENT:Boggy inferior turbinates, No oropharyngeal lesion Lungs:clear Heart Regular rhythm Skin Mild erythematous eruption to hairline Follow-up as scheduled
+
+Category:   PROTECTED_HEALTH_INFORMATION
+  Text:     87
+Category:   PROTECTED_HEALTH_INFORMATION
+  Text:     highschool teacher
+Category:   TEST_TREATMENT_PROCEDURE
+  Text:     cardiac catheterization
+Category:   PROTECTED_HEALTH_INFORMATION
+  Text:     April 2019
+Category:   MEDICAL_CONDITION
+  Text:     palpitations
+Category:   ANATOMY
+  Text:     chest
+Category:   MEDICAL_CONDITION
+  Text:     chest pressure
+Category:   MEDICAL_CONDITION
+  Text:     Sleeping trouble
+Category:   MEDICATION
+  Text:     Clonidine
+Category:   MEDICAL_CONDITION
+  Text:     Rash
+    Text:   face
+      Type: SYSTEM_ORGAN_SITE
+    Text:   leg
+      Type: SYSTEM_ORGAN_SITE
+Category:   ANATOMY
+  Text:     face
+Category:   ANATOMY
+  Text:     leg
+Category:   MEDICATION
+  Text:     Vyvanse
+    Text:   50 mgs
+      Type: DOSAGE
+    Text:   po
+      Type: ROUTE_OR_MODE
+    Text:   at breakfast daily
+      Type: FREQUENCY
+Category:   MEDICATION
+  Text:     Clonidine
+    Text:   0.2 mgs -- 1 and 1 / 2
+      Type: STRENGTH
+    Text:   tabs
+      Type: FORM
+    Text:   po
+      Type: ROUTE_OR_MODE
+Category:   ANATOMY
+  Text:     HEENT
+Category:   MEDICAL_CONDITION
+  Text:     Boggy inferior turbinates
+    Text:   HEENT
+      Type: SYSTEM_ORGAN_SITE
+    Text:   inferior
+      Type: DIRECTION
+Category:   ANATOMY
+  Text:     inferior
+Category:   ANATOMY
+  Text:     turbinates
+Category:   MEDICAL_CONDITION
+  Text:     oropharyngeal lesion
+    Text:   HEENT
+      Type: SYSTEM_ORGAN_SITE
+    Text:   Lungs
+      Type: SYSTEM_ORGAN_SITE
+Category:   ANATOMY
+  Text:     Lungs
+Category:   MEDICAL_CONDITION
+  Text:     clear Heart Regular rhythm
+    Text:   HEENT
+      Type: SYSTEM_ORGAN_SITE
+    Text:   Lungs
+      Type: SYSTEM_ORGAN_SITE
+Category:   ANATOMY
+  Text:     Heart
+Category:   ANATOMY
+  Text:     Skin
+Category:   MEDICAL_CONDITION
+  Text:     erythematous eruption
+    Text:   HEENT
+      Type: SYSTEM_ORGAN_SITE
+    Text:   Lungs
+      Type: SYSTEM_ORGAN_SITE
+    Text:   Skin
+      Type: SYSTEM_ORGAN_SITE
+    Text:   hairline
+      Type: SYSTEM_ORGAN_SITE
+Category:   ANATOMY
+  Text:     hairline
+Category:   MEDICAL_CONDITION
+  Text:     palpitations
+    Code:   R00.2
+      Desc: Palpitations
+    Code:   R63.5
+      Desc: Abnormal weight gain
+    Code:   I49.9
+      Desc: Cardiac arrhythmia, unspecified
+    Code:   R63.4
+      Desc: Abnormal weight loss
+    Code:   R00.8
+      Desc: Other abnormalities of heart beat
+Category:   MEDICAL_CONDITION
+  Text:     chest pressure
+    Code:   R07.89
+      Desc: Other chest pain
+    Code:   R22.2
+      Desc: Localized swelling, mass and lump, trunk
+    Code:   R07.9
+      Desc: Chest pain, unspecified
+    Code:   R07.2
+      Desc: Precordial pain
+    Code:   I20.9
+      Desc: Angina pectoris, unspecified
+Category:   MEDICAL_CONDITION
+  Text:     Sleeping trouble
+    Code:   G47.9
+      Desc: Sleep disorder, unspecified
+    Code:   G47.00
+      Desc: Insomnia, unspecified
+    Code:   G47.33
+      Desc: Obstructive sleep apnea (adult) (pediatric)
+    Code:   R40.0
+      Desc: Somnolence
+    Code:   G47.30
+      Desc: Sleep apnea, unspecified
+Category:   MEDICAL_CONDITION
+  Text:     Rash
+    Code:   R21
+      Desc: Rash and other nonspecific skin eruption
+    Code:   L53.9
+      Desc: Erythematous condition, unspecified
+    Code:   L08.0
+      Desc: Pyoderma
+    Code:   L27.0
+      Desc: Generalized skin eruption due to drugs and medicaments taken internally
+    Code:   L29.9
+      Desc: Pruritus, unspecified
+Category:   MEDICAL_CONDITION
+  Text:     Boggy inferior turbinates
+    Code:   N88.8
+      Desc: Other specified noninflammatory disorders of cervix uteri
+    Code:   J34.89
+      Desc: Other specified disorders of nose and nasal sinuses
+    Code:   S43.032
+      Desc: Inferior subluxation of left humerus
+    Code:   I21.19
+      Desc: ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+    Code:   N85.8
+      Desc: Other specified noninflammatory disorders of uterus
+Category:   MEDICAL_CONDITION
+  Text:     oropharyngeal lesion
+    Code:   J34.89
+      Desc: Other specified disorders of nose and nasal sinuses
+    Code:   K13.79
+      Desc: Other lesions of oral mucosa
+    Code:   L81.9
+      Desc: Disorder of pigmentation, unspecified
+    Code:   L98.9
+      Desc: Disorder of the skin and subcutaneous tissue, unspecified
+    Code:   I25.10
+      Desc: Atherosclerotic heart disease of native coronary artery without angina pectoris
+Category:   MEDICAL_CONDITION
+  Text:     clear Heart Regular rhythm
+    Code:   I49.9
+      Desc: Cardiac arrhythmia, unspecified
+    Code:   I51.9
+      Desc: Heart disease, unspecified
+    Code:   R00.0
+      Desc: Tachycardia, unspecified
+    Code:   R01.2
+      Desc: Other cardiac sounds
+    Code:   I49.8
+      Desc: Other specified cardiac arrhythmias
+Category:   MEDICAL_CONDITION
+  Text:     erythematous eruption
+    Code:   R21
+      Desc: Rash and other nonspecific skin eruption
+    Code:   L53.9
+      Desc: Erythematous condition, unspecified
+    Code:   H73.893
+      Desc: Other specified disorders of tympanic membrane, bilateral
+    Code:   J39.2
+      Desc: Other diseases of pharynx
+    Code:   H73.892
+      Desc: Other specified disorders of tympanic membrane, left ear
+Category:   MEDICATION
+  Text:     Clonidine
+    Code:   2599
+      Desc: clonidine
+    Code:   884185
+      Desc: Clonidine Hydrochloride 0.2 MG Oral Tablet
+    Code:   884173
+      Desc: Clonidine Hydrochloride 0.1 MG Oral Tablet
+    Code:   1013937
+      Desc: 12 HR Clonidine Hydrochloride 0.2 MG Extended Release Oral Tablet
+    Code:   884187
+      Desc: Clonidine Hydrochloride 0.2 MG Oral Tablet [Catapres]
+Category:   MEDICATION
+  Text:     Vyvanse
+    Code:   854852
+      Desc: lisdexamfetamine dimesylate 50 MG Oral Capsule [Vyvanse]
+    Code:   1871469
+      Desc: lisdexamfetamine dimesylate 50 MG Chewable Tablet [Vyvanse]
+    Code:   711043
+      Desc: Vyvanse
+    Code:   854844
+      Desc: lisdexamfetamine dimesylate 70 MG Oral Capsule [Vyvanse]
+    Code:   854848
+      Desc: lisdexamfetamine dimesylate 60 MG Oral Capsule [Vyvanse]
+Category:   MEDICATION
+  Text:     Clonidine
+    Code:   884185
+      Desc: Clonidine Hydrochloride 0.2 MG Oral Tablet
+    Code:   1013937
+      Desc: 12 HR Clonidine Hydrochloride 0.2 MG Extended Release Oral Tablet
+    Code:   884198
+      Desc: Chlorthalidone 15 MG / Clonidine Hydrochloride 0.2 MG Oral Tablet
+    Code:   2599
+      Desc: clonidine
+    Code:   884189
+      Desc: Clonidine Hydrochloride 0.3 MG Oral Tablet
